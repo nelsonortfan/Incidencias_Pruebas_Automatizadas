@@ -1,14 +1,20 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Plantilla Issues Pruebas Automáticas
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**TÍTULO**
+El objetivo del título es dar una explicación bastante corta y puntual del defecto a reportar.
+
+**COMPORTAMIENTO ESPERADO**
+Una descripción del comportamiento esperado para el escenario de pruebas ejecutado.
+
+**COMPORTAMIENTO ACTUAL**
+Descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
 **To Reproduce**
 Steps to reproduce the behavior:
