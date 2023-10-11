@@ -16,29 +16,18 @@ Una descripción del comportamiento esperado para el escenario de pruebas ejecut
 **COMPORTAMIENTO ACTUAL**
 Descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**PASOS PARA REPRODUCIR DEFECTO**
+Secuencia de pasos que se requieren para poder reproducir el defecto. Si en la ejecución del escenario usted hizo uso de algún dato, debe detallar en los pasos, que dato uso y en donde lo uso.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**EVIDENCIAS**
+Conjunto de imágenes o videos que complementan la información dada en el reporte.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**CONTEXTO**
+En esta sección se debe detallar el contexto en el que fue ejecutado el escenario de prueba.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+a. Versión de la app.
+b. Sistema operativo. Windows XX, Mac XX, Ubuntu XX
+c. Browser ( nombre y versión ): [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX |  Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX  WKWebView ]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**INFORMACIÓN ADICIONAL**
+Datos adicionales a los que se tenga acceso respecto al defecto. Por ejemplo, trazas de error, defecto similares ya reportados, posible solución, posible implementación de la solución, links a recursos externos que brinden más información: stackoverflow, gitter, etc.
